@@ -1,4 +1,4 @@
-## hi, i'm yoël
+## hi, i'm Yoël
 
 
 ### about me
@@ -8,7 +8,7 @@
 
 ### skill set:
 
-#### languages - [c, cpp, javascript, python]
+#### languages - [c, c++, javascript, python]
 <div><img src="https://skillicons.dev/icons?i=c,cpp,js,python"&perline=4/></div>
 
 #### frontend - [html, css, js, vite, threejs, maplibre, turf]
@@ -17,13 +17,13 @@
 #### backend - [nodejs, express]
 <div><img src="https://skillicons.dev/icons?i=nodejs,express"&perline=4/></div>
 
-#### other - [docker, git, linux, postgres, postgis, CUDA]
+#### other - [docker, git, linux, postgres, postgis, cuda]
 <div><img src="https://skillicons.dev/icons?i=docker,git,linux,postgres,postgis,cuda"&perline=4/></div>
 
 ### current interests / exploration
-- 3dgs (3D gaussian splatting) - [paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
+- 3DGS (3D gaussian splatting) - [paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
 - ml algorithms - (e.g neural networks, backpropagation, etc..)
-- web assembly - porting visual c programs to wasm
+- web assembly - porting visual C programs to wasm
 
 ### external links
 - my website - [yoël.com](https://yoël.com) (work in progress haha)
