@@ -14,8 +14,8 @@
 #### frontend - [html, css, js, vite, threejs, maplibre, turf]
 <div><img src="https://skillicons.dev/icons?i=html,css,js,vite,threejs,maplibre,turf"&perline=4/></div>
 
-#### backend - [nodejs, express]
-<div><img src="https://skillicons.dev/icons?i=nodejs,express"&perline=4/></div>
+#### backend - [nodejs, express, nginx]
+<div><img src="https://skillicons.dev/icons?i=nodejs,express,nginx"&perline=4/></div>
 
 #### other - [docker, git, linux, postgres, postgis, cuda]
 <div><img src="https://skillicons.dev/icons?i=docker,git,linux,postgres,postgis,cuda"&perline=4/></div>
