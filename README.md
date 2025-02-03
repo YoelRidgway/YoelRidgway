@@ -6,9 +6,11 @@
 - started with low-level in school (c, c++) -> now working professionally in full-stack web dev (js, nodejs, postgres)
 
 ### current interests / exploration
-- 3DGS (3D gaussian splatting) - [paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
-- ml algorithms - (e.g neural networks, backpropagation, etc..)
-- web assembly - porting visual C programs to wasm
+- working with mapping - Maplibre, pmtiles, postgis, OpenStreetMap
+- exploring 3DGS (3D gaussian splatting) - [paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
+- studying ml algorithms - (e.g neural networks, backpropagation, etc..)
+- learning CUDA
+- interested in web assembly - porting visual C programs to wasm
 
 ### skill set:
 
